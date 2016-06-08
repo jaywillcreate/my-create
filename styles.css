@@ -99,12 +99,13 @@ body {
 .searchbar{
 }
 input {
-    width: 100%;
+    width: 60%;
     padding:10px;
     height:40px;
 }
 input[type=text] {
     background-color: white;
+    background-opacity: .6;
     background-image: url('searchicon.png');
     background-position: 10px 10px; 
     background-repeat: no-repeat;
