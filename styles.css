@@ -50,6 +50,7 @@ body{
   width: 100%;
 }
 .right {
+    float:right;
     position: absolute;
     right: 0px;
     width: 300px;
