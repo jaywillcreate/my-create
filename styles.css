@@ -39,17 +39,19 @@ body{
 }
 #header{
   z-index:1;
+  position:absolute;
   background-color:#e96026;
   width:100%;
   height:40px;
 }
 #nav{
-  z-index:99999;
+  float:left;
   position: absolute;
   background-color:#023334;
   width:100%;
   height:100px;
   color:#ffffff;
+  z-index:99999;
 }
 #menu-icon{
 }
@@ -62,12 +64,15 @@ body{
     
 }
 #footerLeft{
+    position:absolute;
     width:50%;
     background-color:#023334;
 }
 #footerCenter{
+    position:absolute;
     width:25%;
 }
 #footerRight{
+    position:absolute;
     width:25%;
 }
