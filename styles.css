@@ -1,10 +1,16 @@
 p{
+    display:inline;
+    position:absolute;
     color:#fffff;
     font-size:12px;
 }
 h1{
 }
 h2{
+    display:inline;
+    position:absolute;
+    font-size:20px;
+    color:#fff;
 }
 h3{
 }
