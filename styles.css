@@ -3,7 +3,6 @@ p{
     color:#fffff;
     font-size:12px;
     font-family:"Quicksand";
-    z-index:9999999;
 }
 h1{
 }
@@ -11,7 +10,6 @@ h2{
     display:inline;
     font-size:36px;
     color:#fff;
-    z-index:9999999;
 }
 h3{
     display: inline;
@@ -65,7 +63,6 @@ body{
     right: 0px;
     width: 300px;
     background-color:#e96026;
-    z-index:99999999;
 }
 .floating-box {
     display: inline-block;
@@ -88,19 +85,16 @@ body{
   height:100px;
   margin:40px;
   color:#ffffff;
-  z-index:99999;
 }
 #menu-icon{
 }
 #searchbar{
-    z-index:99999999;
 }
 .loginButton{
 }
 .signupButton{
 }
 #footer{
-    z-index:99999;
     position: absolute;
     width:100%;
 }
