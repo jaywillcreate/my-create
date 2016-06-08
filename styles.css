@@ -39,9 +39,15 @@ display: block;
 }
 body{
   z-index:-1;
+  margin:0;
+  padding:0;
   background-color:#e96026;
   width:100%;
   color:#ffffff;
+}
+.container {
+  position: relative;
+  width: 100%;
 }
 #header{
   z-index:1;
