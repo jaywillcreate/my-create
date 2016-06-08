@@ -49,6 +49,12 @@ body{
   position: relative;
   width: 100%;
 }
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    background-color:#e96026;
+}
 #header{
   z-index:1;
   position:absolute;
@@ -69,11 +75,7 @@ body{
 #menu-icon{
 }
 #searchbar{
-    background-color:#e96026;
-    width:200px;
-    position:relative;
-    align:right;
-    z-index:999999;
+    z-index:99999999;
     
 }
 .loginButton{
