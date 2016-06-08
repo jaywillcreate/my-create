@@ -1,54 +1,54 @@
-p{
+p {
     display:inline;
     color:#fffff;
     font-size:12px;
     font-family:"Quicksand";
 }
-h1{
+h1 {
 }
-h2{
+h2 {
     display:inline;
     font-size:36px;
     color:#fff;
 }
-h3{
+h3 {
     display: inline;
     font-family: "Quicksand";
 }
-h4{
+h4 {
 }
-h5{
+h5 {
 }
-h6{
+h6 {
 }
 span {
     display: block;
 }
-ul{
+ul {
     list-style-type: none;
     font-family:"Quicksand";
     margin: 0;
     padding: 0;
 }
-li{
+li {
     display: inline;
     margin: 0;
     padding: 0;
 }
-li a{
+li a {
     display: block;
 }
-li a:hover{
+li a:hover {
     background-color:transparent;
     color:#fff;
 }
-img{
+img {
     z-index: -1;
 }
 div {
 display: block;
 }
-body{
+body {
     --webkit-background-size: cover;
 	    -moz-background-size: cover;
 	    -o-background-size cover;
@@ -79,11 +79,11 @@ body{
     margin: 10px;
 }
 #header{
-  z-index:1;
   position:absolute;
   background-color:#e96026;
   width:100%;
   height:40px;
+  z-index:1;
 }
 #navbar{
   float:left;
@@ -91,12 +91,12 @@ body{
   background-color:#023334;
   width:100%;
   height:100px;
-  margin:40px;
+  margin-top:80px;
   color:#ffffff;
 }
-#menu-icon{
+.menu-icon{
 }
-#searchbar{
+.searchbar{
 }
 .loginButton{
 }
@@ -106,16 +106,16 @@ body{
     position: absolute;
     width:100%;
 }
-#footerLeft{
+.footerLeft{
     position:absolute;
     width:50%;
     background-color:#023334;
 }
-#footerCenter{
+.footerCenter{
     position:absolute;
     width:25%;
 }
-#footerRight{
+.footerRight{
     position:absolute;
     width:25%;
 }
