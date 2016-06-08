@@ -100,13 +100,13 @@ body {
 }
 input {
     width: 60%;
-    margin-top:100px;
+    margin-top:10px;
     padding:10px;
     height:40px;
 }
 input[type=text] {
     background-color: white;
-    background-opacity: .6;
+    opacity: .6;
     background-image: url('searchicon.png');
     background-position: 10px 10px; 
     background-repeat: no-repeat;
