@@ -49,12 +49,17 @@ div {
 display: block;
 }
 body{
-  z-index:-1;
+    --webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size cover;
+            background-size: cover;
+            overflow: hidden;
   margin:0;
   padding:0;
   background-color:#e96026;
   width:100%;
   color:#ffffff;
+  
 }
 .container {
   position: relative;
@@ -114,3 +119,6 @@ body{
     position:absolute;
     width:25%;
 }
+
+/* Media Queries */
+@media screen and (max-width: 480px) {
