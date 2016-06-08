@@ -1,4 +1,6 @@
 p{
+    color:#fffff;
+    font-size:12px;
 }
 h1{
 }
@@ -20,6 +22,7 @@ ul{
     padding: 0;
 }
 li{
+    display: inline;
 }
 li a{
     display: block;
@@ -47,11 +50,21 @@ body{
   height:100px;
   color:#ffffff;
 }
+#menu-icon{
+}
+#searchbar{
+}
 #footer{
+    width:100%;
+    
 }
 #footerLeft{
+    width:50%;
+    background-color:#023334;
 }
 #footerCenter{
+    width:25%;
 }
 #footerRight{
+    width:25%;
 }
