@@ -42,6 +42,9 @@ li a:hover{
     background-color:transparent;
     color:#fff;
 }
+img{
+    z-index: -1;
+}
 div {
 display: block;
 }
