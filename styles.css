@@ -54,6 +54,7 @@ body{
     right: 0px;
     width: 300px;
     background-color:#e96026;
+    z-index:99999999;
 }
 #header{
   z-index:1;
@@ -76,7 +77,6 @@ body{
 }
 #searchbar{
     z-index:99999999;
-    
 }
 .loginButton{
 }
