@@ -21,6 +21,13 @@ ul{
 }
 li{
 }
+li a{
+    display: block;
+}
+li a:hover{
+    background-color:transparent;
+    color:#fff;
+}
 body{
   z-index:-1;
   background-color:#e96026;
