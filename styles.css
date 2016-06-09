@@ -97,7 +97,14 @@ body {
 }
 .menu-icon{
 }
-.searchbar{
+#searchbar{
+    float:right; 
+    vertical-align: middle; 
+    right:0px; 
+    background-color:#e96026; 
+    margin-top:10px;
+    width:600px; 
+    height:78px;
 }
 input {
     width: 60%;
