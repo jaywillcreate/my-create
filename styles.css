@@ -105,6 +105,7 @@ body {
     margin-top:10px;
     width:600px; 
     height:78px;
+    z-index:22;
 }
 input {
     width: 60%;
