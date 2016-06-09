@@ -93,6 +93,7 @@ body {
   height:100px;
   margin-top:80px;
   color:#ffffff;
+  z-index:21;
 }
 .menu-icon{
 }
