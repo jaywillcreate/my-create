@@ -131,7 +131,7 @@ input[type=text] {
     height:70px; 
     z-index:10;
 }
-.loginButton{
+#loginButton{
     background-color:#023334; 
     border:solid; 
     border-width:5px; 
@@ -141,7 +141,7 @@ input[type=text] {
     padding:20px 100px 20px 100px; 
     text-align:center;
 }
-.signupButton{
+#signupButton{
     background-color:#e96026; 
     border:solid; 
     border-width:5px; 
