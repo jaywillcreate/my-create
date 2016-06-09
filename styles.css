@@ -118,7 +118,8 @@ input[type=text] {
 }
 footer{
     background-color:#023334;
-    position: relative;
+    display:inline;
+    position: absolute;
     width:100%;
     height:auto;
     padding:20px;
