@@ -133,6 +133,8 @@ input[type=text] {
 }
 #loginButton{
     background-color:#023334; 
+    margin-top:350px; 
+    margin-left:50px; 
     border:solid; 
     border-width:5px; 
     border-color:#023334; 
@@ -142,7 +144,9 @@ input[type=text] {
     text-align:center;
 }
 #signupButton{
-    background-color:#e96026; 
+    background-color:#e96026;
+    margin-top:350px; 
+    margin-left:50px; 
     border:solid; 
     border-width:5px; 
     border-color:#023334; 
