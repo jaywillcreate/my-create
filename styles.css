@@ -27,8 +27,7 @@ span {
 ul {
     list-style-type: none;
     font-family:"Quicksand";
-    vertical-align:middle;
-    margin: 0px;
+    margin: 40px;
     padding:0;
 }
 li {
