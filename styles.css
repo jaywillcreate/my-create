@@ -118,20 +118,16 @@ input[type=text] {
 }
 #footer{
     background-color:#023334;
-    position: absolute;
+    position: relative;
     width:100%;
 }
-.footerLeft{
-    position:absolute;
+div.footerLeft{
     width:50%;
-    background-color:#023334;
 }
-.footerCenter{
-    position:absolute;
+div.footerCenter{
     width:25%;
 }
-.footerRight{
-    position:absolute;
+div.footerRight{
     width:25%;
 }
 
