@@ -122,6 +122,15 @@ input[type=text] {
     background-repeat: no-repeat;
     padding-left: 40px;
 }
+#login {
+    background-color:#023334;
+    position:absolute;
+    margin-top:400px; 
+    margin-left:50px; 
+    width:600px; 
+    height:70px; 
+    z-index:10;
+}
 .loginButton{
 }
 .signupButton{
