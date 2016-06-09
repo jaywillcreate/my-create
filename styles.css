@@ -95,6 +95,11 @@ body {
   color:#ffffff;
   z-index:21;
 }
+#navbar.li {
+  display:inline;
+  padding:20px; 
+  vertical-align: middle;
+}
 .menu-icon{
 }
 #searchbar{
