@@ -101,7 +101,8 @@ body {
     float:right; 
     position: absolute;
     background-color:#e96026;
-    vertical-align: middle; 
+    vertical-align: middle;
+    right:0px;
     margin-top:10px;
     width:600px; 
     height:78px;
