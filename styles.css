@@ -33,7 +33,8 @@ ul {
 li {
     display: inline;
     margin: 0;
-    padding: 0;
+    padding: 20px;
+    vertical-align: middle;
 }
 li a {
     display: block;
@@ -94,12 +95,6 @@ body {
   margin-top:30px;
   color:#ffffff;
   z-index:21;
-}
-#navbar.li {
-  display: inline;
-  margin: 0;
-  padding: 0;
-  vertical-align: middle;
 }
 .menu-icon{
 }
