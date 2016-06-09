@@ -117,6 +117,7 @@ input[type=text] {
 .signupButton{
 }
 #footer{
+    background-color:#023334;
     position: absolute;
     width:100%;
 }
