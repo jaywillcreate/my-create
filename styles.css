@@ -96,8 +96,9 @@ body {
   z-index:21;
 }
 #navbar.li {
-  display:inline;
-  padding:20px; 
+  display: inline;
+  margin: 0;
+  padding: 0;
   vertical-align: middle;
 }
 .menu-icon{
