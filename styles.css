@@ -173,20 +173,16 @@ footer{
     padding:20px;
     font-family:'Quicksand';
 }
-h3.footerLeft {
-    display:absolute;
-    width:50%;
-    padding:10px;
+.footerLeft {
+    text-align:left;
+    float:left;
 }
-h3.footerCenter {
-    display:absolute;
-    width:25%;
-    padding:10px;
+.footerCenter {
+    text-align:center;
 }
-h3.footerRight {
-    display:absolute;
-    width:25%;
-    padding:10px;
+.footerRight {
+    float:right;
+    text-align:right;
 }
 
 /* Media Queries */
