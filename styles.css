@@ -135,7 +135,7 @@ input[type=text] {
 #loginButton{
     background-color:#023334;
     position:absolute;
-    margin-top:40px;
+    margin-top:0px;
     margin-left:25px; 
     border:solid; 
     border-width:5px; 
@@ -148,7 +148,8 @@ input[type=text] {
 #signupButton{
     background-color:#e96026;
     position:absolute;
-    margin-top:40px;
+    margin-top:0px;
+    margin-left:100px;
     border:solid; 
     border-width:5px; 
     border-color:#023334; 
