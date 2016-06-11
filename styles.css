@@ -177,12 +177,12 @@ footer{
     text-align:left;
     float:left;
 }
-.footerCenter {
-    text-align:center;
-}
 .footerRight {
     float:right;
     text-align:right;
+}
+.footerCenter {
+    text-align:center;
 }
 
 /* Media Queries */
