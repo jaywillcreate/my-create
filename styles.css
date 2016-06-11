@@ -173,17 +173,17 @@ footer{
     padding:20px;
     font-family:'Quicksand';
 }
-div.footerLeft {
+h3.footerLeft {
     display:absolute;
     width:50%;
     padding:10px;
 }
-div.footerCenter {
+h3.footerCenter {
     display:absolute;
     width:25%;
     padding:10px;
 }
-div.footerRight {
+h3.footerRight {
     display:absolute;
     width:25%;
     padding:10px;
