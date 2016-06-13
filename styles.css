@@ -164,6 +164,7 @@ input[type=text] {
 }
 div.picRight{
 	position:absolute;
+	margin-left:400px;
 	float:right;
 }
 #footer{
