@@ -162,7 +162,7 @@ input[type=text] {
     padding:20px 113px 20px 113px; 
     text-align:center;
 }
-div.picRight{
+#picRight{
 	position:absolute;
 	float:right;
 }
